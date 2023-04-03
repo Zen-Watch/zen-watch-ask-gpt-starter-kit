@@ -1,5 +1,15 @@
 # Zen.Watch Ask GPT Starter Kit
-Zen.Watch's configurable AI code generator by OpenAI's Chat GPT for your terminal 
+Zen.Watch's configurable ChatGPT code generator for your terminal. 
+
+This terminal has 2 modes: an interactive chat mode and a non-interactive text file based prompt mode and you can easily toggle between the 2 modes.
+
+- Interactive chat mode is a replica of chat-gpt interface in your terminal
+- Non-interactive text file based prompt mode allows to set maximum context for code generation using code samples & descriptions
+
+### API Keys
+For using this version, you need to sign up (paid version) and get your api key from https://platform.openai.com/overview 
+- If you need a free, hosted version of this repository, use the one at https://zen.watch
+- You need to sign up (free of charge) to access the admin console hosted at https://admin.zen.watch
 
 Fork and extend this starter kit to:
 - Set any prompt you want
