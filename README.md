@@ -7,6 +7,17 @@ Fork and extend this starter kit to:
 - Generate code for new trigger and actions templates optimized for [Zen.Watch](https://zen.watch)
 
 ### Installation
+
+``` Create a config.json in the root folder ```
+Create the file with the following content.  
+```
+{
+    "api_key": "your-api-key",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "stream": true
+}
+```
 - Replace the default text with your chat-gpt api key (Sign up a openapi.com/chatgpt if you need an account)
 - If you don't have an api-key, you can use the hosted version at https://zen.watch (sign up for an account to access the admin console)
 
