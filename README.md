@@ -6,6 +6,9 @@ This terminal has 2 modes: an interactive chat mode and a non-interactive text f
 - Interactive chat mode is a replica of chat-gpt interface in your terminal
 - Non-interactive text file based prompt mode allows to set maximum context for code generation using code samples & descriptions
 
+### Demo
+[![Alt text](https://img.youtube.com/vi/2uxgVPVXDj4/maxresdefault.jpg)](https://www.youtube.com/embed/2uxgVPVXDj4)
+
 ### API Keys
 For using this version, you need to sign up (paid version) and get your api key from https://platform.openai.com/overview 
 - If you need a free, hosted version of this repository, use the one at https://zen.watch
@@ -15,9 +18,6 @@ Fork and extend this starter kit to:
 - Set any prompt you want
 - Pick any openai algorithhm you want
 - Generate code for new trigger and actions templates optimized for [Zen.Watch](https://zen.watch)
-
-### Demo
-[![Alt text](https://img.youtube.com/vi/2uxgVPVXDj4/maxresdefault.jpg)](https://www.youtube.com/embed/2uxgVPVXDj4)
 
 ### Installation
 
