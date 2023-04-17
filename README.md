@@ -17,7 +17,7 @@ Fork and extend this starter kit to:
 - Generate code for new trigger and actions templates optimized for [Zen.Watch](https://zen.watch)
 
 ### Demo
-<iframe width="950" height="600" src="https://www.youtube.com/embed/2uxgVPVXDj4" title="Zen.Watch | AskGPT Terminal demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/2uxgVPVXDj4/maxresdefault.jpg)](https://www.youtube.com/embed/2uxgVPVXDj4)
 
 ### Installation
 
