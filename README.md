@@ -17,7 +17,7 @@ Fork and extend this starter kit to:
 - Generate code for new trigger and actions templates optimized for [Zen.Watch](https://zen.watch)
 
 ### Demo
-[![Alt text](https://img.youtube.com/vi/2uxgVPVXDj4/maxresdefault.jpg)](https://www.youtube.com/embed/2uxgVPVXDj4)
+[![Alt text](https://img.youtube.com/vi/2uxgVPVXDj4/maxresdefault.jpg)](https://www.youtube.com/watch?v=2uxgVPVXDj4)
 
 ### Installation
 
