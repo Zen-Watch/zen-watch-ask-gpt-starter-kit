@@ -16,6 +16,9 @@ Fork and extend this starter kit to:
 - Pick any openai algorithhm you want
 - Generate code for new trigger and actions templates optimized for [Zen.Watch](https://zen.watch)
 
+### Demo
+<iframe width="950" height="600" src="https://www.youtube.com/embed/2uxgVPVXDj4" title="Zen.Watch | AskGPT Terminal demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
 ### Installation
 
 ``` Create a config.json in the root folder ```
